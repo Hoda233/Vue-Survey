@@ -5,7 +5,6 @@
 - [About](#about)
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
-- [Features](#features)
 - [Screenshots](#screenshots)
 
 ## About
